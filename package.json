@@ -1,0 +1,29 @@
+{
+  "name": "funny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^8.2.9",
+    "@angular/compiler": "^8.2.9",
+    "@angular/core": "^8.2.9",
+    "@angular/platform-browser": "^8.2.9",
+    "@angular/platform-browser-dynamic": "^8.2.9",
+    "core-js": "^3.2.1",
+    "rxjs": "^6.5.3",
+    "systemjs": "^6.1.2",
+    "zone.js": "^0.10.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "typescript": "^3.6.3"
+  }
+}
